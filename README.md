@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **full-stack development and machine learning.**
 - 👯 I’m looking to collaborate on **open source projects.**
 - 💬 Ask me about **React, Node.js, Python, and data science.**
-- 📫 How to reach me: **https://www.instagram.com/parsaprogram or parsamahmoudibuis@gmail.com**
+- 📫 How to reach me: **https://www.instagram.com/onlyparsaa or parsamahmoudibuis@gmail.com**
 - ⚡ Fun fact: **I love solving puzzles and playing chess.**
 - 💻 I'm a **full-time hacker** always looking for new challenges.
 
